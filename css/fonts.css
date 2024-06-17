@@ -1,0 +1,9 @@
+@font-face { 
+    font-family: "GraphikBold";
+    src: url("../fonts/GraphikBold/GraphikBold.eot");
+    src: url("../fonts/GraphikBold/GraphikBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/GraphikBold/GraphikBold.woff") format("woff"),
+    url("../fonts/GraphikBold/GraphikBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 700;
+}
